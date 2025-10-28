@@ -13,7 +13,7 @@
 - 🎓 Atualmente estudando **Java, Spring Boot e SQL**.
 - 💡 Gosto de resolver problemas com código e entender como as coisas funcionam por trás dos bastidores.
 - 🌱 Estou focado em evoluir como desenvolvedor backend.
-- 📍 Baseado em João Pessoa - PB, Brasil.
+- 📍 Resido em João Pessoa - PB, Brasil.
 - 🔍 Em busca de oportunidades para aplicar meus conhecimentos em projetos reais.
 
 ---
