@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Gabriel Vitório 👨‍💻</h1>
 
 <p align="center">
-  Estudante dedicado de Analise e Desenvolvimento de sistemas e apaixonado por transformar ideias em soluções reais.
+  Estudante de Analise e Desenvolvimento de sistemas.
   <br>
   Sempre em evolução, buscando aprender e aplicar boas práticas no desenvolvimento.
 </p>
