@@ -33,8 +33,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Gabrielvitori&show_icons=true&theme=tokyonight&hide_rank=true&hide=prs,issues" alt="Estatísticas Gabriel">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielvitori&layout=compact&theme=tokyonight&hide_progress=true" alt="Linguagens Mais Usadas">
+  
+  <img src="https://streak-stats.demolab.com?user=Gabrielvitori&theme=transparent&ring=22c55e&fire=a3e635&currStreakNum=e5e7eb&currStreakLabel=22c55e&sideNums=e5e7eb&sideLabels=e5e7eb&dates=a3e635&hide_border=true" alt="GitHub Streak do Gabriel" />
+
 </div>
 
 ---
