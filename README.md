@@ -14,12 +14,12 @@
 
 <br>
 
-<!-- Bloco 1: Perfil Profissional -->
+<!-- Bloco 1: Perfil Profissional (Corrigido para preencher a célula) -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none;">
-    <td align="center" width="25%" style="border: none;">
+    <td width="25%" style="border: none;">
       <!-- Sugestão: Suba um GIF sutil (ex: folhas se mexendo, engrenagens verdes) como avatar -->
-      <img src="assets/avatar_solarpunk.gif" width="160" style="border-radius: 10px;" alt="Avatar Animado" />
+      <img src="assets/ChatGPT Image 26_06_2026, 22_56_58.png" width="100%" style="border-radius: 10px; height: auto; object-fit: contain;" alt="Avatar Animado" />
     </td>
     <td align="left" width="75%" style="border: none;">
       <h2>Gabriel Vitório</h2>
@@ -64,10 +64,7 @@
     <td align="left" width="75%" style="border: none;">
       <h3>Um pouco mais sobre mim</h3>
       <p>
-        Acredito que habilidades analíticas se constroem em várias frentes. Fora do ambiente corporativo, dedico-me à construção de narrativas complexas e <i>world-building</i> em campanhas de <b>RPG de texto</b>, exercitando a criatividade e a gestão de variáveis. 
-      </p>
-      <p>
-        Mantenho a disciplina e o foco através de rotinas rigorosas de treinamento de força (PHUL). No ecossistema digital, continuo aprimorando meu pensamento estratégico e gerenciamento de recursos em títulos como Clash of Clans e na elaboração de <i>builds</i> táticas no Cyberpunk 2077. 🌱
+        Gosto da ideia solarpunk porque acredito que a natureza e a tecnologia andam lado a lado. Esse equilíbrio é essencial para o futuro. 🌱
       </p>
       <br>
       <b>Conexões Profissionais:</b><br>
@@ -76,7 +73,7 @@
     </td>
     <td align="center" width="25%" style="border: none;">
       <!-- Sugestão: GIF pequeno de engrenagem girando ou elemento da natureza -->
-      <img src="assets/curiosidades_gif.gif" width="160" style="border-radius: 10px;" alt="GIF Solarpunk Secundário" />
+      <img src="assets/solarpunk2.gif" width="340" style="border-radius: 10px;" alt="GIF Solarpunk Secundário" />
     </td>
   </tr>
 </table>
